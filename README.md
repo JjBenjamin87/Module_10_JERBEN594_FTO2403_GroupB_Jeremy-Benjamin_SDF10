@@ -21,7 +21,7 @@ An interface is different because it is a boundary that two independant systems 
 API's three main components are:
 * **API client** assembling and directs an API request .
 
-* **API server** sends the correct endpoint on the API server for processing, it handles authentication, validating input data, retrieving or manipulating data from a database, and returning the appropriate response to the client
+* **API server** sends the correct endpoint on the API server for processing, it handles authentication, validating input data, retrieving or manipulating data from a database, and returning the appropriate response to the client.
 
 * **API response** the data or information that is returned from a server when an API request is sent, examples of common components:
     * **Body**
@@ -33,7 +33,7 @@ API's three main components are:
     * **Parameters** additional data that is passed to an API endpoint to provide specific instructions for the API to process.
     * **Request headers** key-value pairs that provide additional information about the request or response.
     * **Method** defines the operation that the client would like to perform on the specified resource like GET, POST, PUT, DELETE.
-    * **Request body** includes the actual data that is necessary to create, update, or delete a resource
+    * **Request body** includes the actual data that is necessary to create, update, or delete a resource.
 
  Types of APIs:
 * **Web** a application programming interface for the Web. 
