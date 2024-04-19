@@ -12,7 +12,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
-An API is a group of definitions, tools and protocols that allolw differnet software applications to communicate with one another. APIs specify how software components should interact by using functionality of another without understanding how it works.
+An API is a group of definitions, tools and protocols that allow different software applications to communicate with one another. APIs specify how software components should interact by using functionality of another without understanding how it works.
 
 An interface is different because it is a boundary that two independant systems can cross to meet and interact with each other.
 
